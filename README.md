@@ -71,3 +71,5 @@ Open url ``localhost:<your port>`` in the browser.
 * Android SDK
 * Node.JS
 * Socket.IO
+
+This project is an enhanced version of the [Android SQLite Viewer](https://github.com/a6un/Android-SQLiteViewer) which was initiated by [Arun](//github.com/a6un/) 
